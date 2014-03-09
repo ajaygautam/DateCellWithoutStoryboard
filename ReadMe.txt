@@ -3,6 +3,17 @@
 ===========================================================================
 DESCRIPTION:
 
+
+This is based on Apple's DateCell project / sample code.
+Removes the story board and adds a nib file for increased reusability.
+
+THIS WILL WORK with iOS 7 only
+
+USE AT YOUR OWN RISK. Apple's disclaimer apply too...
+
+
+
+
 Demonstrates formatted display of date objects in table cells and use of UIDatePicker to edit those values.
 
 Using a grouped style UITableViewController, the sample has two UITableViewCells to draw the primary title and NSDate values.  This is accomplished using the built-in cell type "UITableViewCellStyleValue1" which supports left and right text.
